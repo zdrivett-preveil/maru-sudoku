@@ -1,0 +1,9 @@
+.elixir_ls
+docker/build/
+**/_build
+**/cover
+**/deps
+erl_crash.dump
+*.ez
+*.pb.ex
+.elixir_ls
